@@ -8,4 +8,4 @@
 - 📫 How to reach me: srmkr7800@gmail.com
 <!-- - 😄 Pronouns: -->
 <!-- - ⚡ Fun fact: ... -->
-![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraj2503&show_icons=true&theme=midnight-purple&count_private=true)
+![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraj2503&show_icons=true&theme=midnight-purple&count_private=true&hide=issues)
