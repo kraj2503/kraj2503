@@ -17,16 +17,15 @@ SRM KTR ET - 2020 - 24
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=kraj2503&theme=discord&no-frame=false&no-bg=true&margin-w=4) -->
 
----
-[![](https://visitcount.itsvg.in/api?id=kraj2503&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- --- -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraj2503&show_icons=true&theme=midnight-purple&count_private=true&hide=issues) -->
-[![@kraj2503's Holopin board](https://holopin.me/kraj2503)](https://holopin.io/@kraj2503)
+<!-- [![@kraj2503's Holopin board](https://holopin.me/kraj2503)](https://holopin.io/@kraj2503)
  -->
 
-
+ -->
 
 # 💫 About Me:
 🔭 I’m currently working on Solidity<br>👯 I’m looking to collaborate on Blockchain<br>💬 Ask me about DSA<br>
@@ -41,5 +40,6 @@ SRM KTR ET - 2020 - 24
 ![](https://github-readme-stats.vercel.app/api?username=kraj2503&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kraj2503&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraj2503&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=kraj2503&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
