@@ -25,7 +25,7 @@ SRM KTR ET - 2020 - 24
 <!-- [![@kraj2503's Holopin board](https://holopin.me/kraj2503)](https://holopin.io/@kraj2503)
  -->
 # 💫 About Me:
-🔭 I’m currently learning Rust🦀 I’m looking to collaborate on Blockchain<br>💬 Ask me about DSA<br>
+🔭 I’m currently learning Rust🦀 <br>I’m looking to collaborate on Blockchain<br>💬 Ask me about DSA<br>
 
 [Download Resume](https://kraj2503.github.io/portfolio/Kshitiz_Raj.pdf)
 
